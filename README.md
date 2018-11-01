@@ -1,13 +1,7 @@
 <html>
-<head>
-
-  
-  <title>2D BOY's Boy Framework</title>
-</head>
-
 
 <body>
-
+<h1>2D BOY's Boy Framework</h1>
 
 <h3>Overview</h3>
 
