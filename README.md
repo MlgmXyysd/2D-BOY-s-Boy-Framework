@@ -101,7 +101,7 @@ and run!</root></root></root></root></root></root></li>
 <ul>
   <li>You can create your own fonts for use in
 your games. &nbsp;the font file format is that used by the Popcap
-frameowork, which comes with a font builder tool. &nbsp;The resource
+framework, which comes with a font builder tool. &nbsp;The resource
 manifest (resource.xml) also uses a simpliefied version of the format
 available in the Popcap Framework.</li>
   <li>Demo1 requires a dualshock style game controller (it simply does nothing without one)</li>
