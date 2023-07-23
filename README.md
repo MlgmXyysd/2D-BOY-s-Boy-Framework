@@ -107,6 +107,7 @@ available in the Popcap Framework.</li>
   <li>Demo1 requires a dualshock style game controller (it simply does nothing without one)</li>
   <li>There is no documentation for this framework. &nbsp;There are
 inline comments that should help you if you're looking at the innards.</li>
+  <li>You can find PopCap Framework tools <a href="https://github.com/MlgmXyysd/PopCap-Games-Open-Source#tools">here</a>.</li>
 </ul>
 
 
